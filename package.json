@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "build": "",
+    "start": ""
+  },
+  "dependencies": {
+    "marked": "^4.0.12"
+  }
+}

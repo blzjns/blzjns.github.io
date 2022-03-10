@@ -1,0 +1,27 @@
+::selection {
+    background: #bd93f9;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    width: 100%;
+}
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Inconsolata,monospace;
+    font-size: 15px;
+}
+#container {
+    padding: 15px;
+}
+#container output {
+    clear: both;
+    width: 100%;
+}
+#container output h3 {
+    margin: 0;
+}
+#container output pre {
+    margin: 0;
+}
